@@ -1,0 +1,27 @@
+.whole {
+    margin-top: 150px;
+    margin-right: auto;
+    margin-left: auto;
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 15px;
+    width: 80%;
+    text-align: center; 
+}
+
+.intro {
+
+}
+
+.title {
+    font-size: 40px;
+}
+
+.inputs {
+    margin: 10px;
+}
+
+.outputs {
+    margin-bottom: 50px;;
+}
