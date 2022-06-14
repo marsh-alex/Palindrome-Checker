@@ -1,3 +1,20 @@
-# Project-1
+## Library-App 
 
-this is a bare bones application that check word inputs to see if they are palindromes. It will return the word backwards and confirm if the submitted word is a palindrom or not. 
+[Live Preview](https://marsh-alex.github.io/Palindrom-Checker/)
+
+### Overview:
+
+
+## Features:
+
+
+## Tools: 
+
+
+## Outcome: 
+
+
+## Languages:
+- HTML 
+- CSS
+- JavaScript
