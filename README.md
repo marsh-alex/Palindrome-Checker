@@ -1,4 +1,4 @@
-## Library-App 
+## Palindrome Checker 
 
 [Live Preview](https://marsh-alex.github.io/Palindrome-Checker/)
 
